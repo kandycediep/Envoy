@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		971CB57A2C5A7FE0000585C9 /* generalGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB5792C5A7FE0000585C9 /* generalGuide.swift */; };
+		971CB57C2C5A7FF8000585C9 /* airplaneGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB57B2C5A7FF8000585C9 /* airplaneGuide.swift */; };
+		971CB57E2C5A801C000585C9 /* carGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB57D2C5A801C000585C9 /* carGuide.swift */; };
+		971CB5802C5A92E9000585C9 /* walkingGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB57F2C5A92E8000585C9 /* walkingGuide.swift */; };
+		971CB5822C5A9C8A000585C9 /* bikeGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB5812C5A9C8A000585C9 /* bikeGuide.swift */; };
+		971CB5852C5BD136000585C9 /* DMSans-Italic-VariableFont_opsz,wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 971CB5832C5BD135000585C9 /* DMSans-Italic-VariableFont_opsz,wght.ttf */; };
+		971CB5862C5BD136000585C9 /* DMSans-VariableFont_opsz,wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 971CB5842C5BD135000585C9 /* DMSans-VariableFont_opsz,wght.ttf */; };
+		971CB5892C5BDF75000585C9 /* funFactGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB5882C5BDF75000585C9 /* funFactGenerator.swift */; };
+		971CB58B2C5BFB61000585C9 /* quizHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB58A2C5BFB61000585C9 /* quizHome.swift */; };
+		971CB58D2C5BFB8D000585C9 /* question1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB58C2C5BFB8D000585C9 /* question1.swift */; };
+		971CB58F2C5BFBC0000585C9 /* question2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB58E2C5BFBC0000585C9 /* question2.swift */; };
+		971CB5912C5BFBE3000585C9 /* question3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB5902C5BFBE3000585C9 /* question3.swift */; };
+		971CB5932C5BFC00000585C9 /* question4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB5922C5BFC00000585C9 /* question4.swift */; };
+		971CB5952C5BFC47000585C9 /* endQuiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB5942C5BFC47000585C9 /* endQuiz.swift */; };
+		971CB5972C5D1DAB000585C9 /* firstView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB5962C5D1DAB000585C9 /* firstView.swift */; };
+		971CB5992C5D1DCF000585C9 /* secondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB5982C5D1DCF000585C9 /* secondView.swift */; };
+		971CB59B2C5D1E05000585C9 /* thirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971CB59A2C5D1E05000585C9 /* thirdView.swift */; };
 		97DAE94E2C540F1900C23B54 /* FinalProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DAE94D2C540F1900C23B54 /* FinalProjectApp.swift */; };
 		97DAE9502C540F1900C23B54 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DAE94F2C540F1900C23B54 /* ContentView.swift */; };
 		97DAE9522C540F1F00C23B54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97DAE9512C540F1F00C23B54 /* Assets.xcassets */; };
@@ -14,6 +31,24 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		971CB5792C5A7FE0000585C9 /* generalGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = generalGuide.swift; sourceTree = "<group>"; };
+		971CB57B2C5A7FF8000585C9 /* airplaneGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = airplaneGuide.swift; sourceTree = "<group>"; };
+		971CB57D2C5A801C000585C9 /* carGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = carGuide.swift; sourceTree = "<group>"; };
+		971CB57F2C5A92E8000585C9 /* walkingGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = walkingGuide.swift; sourceTree = "<group>"; };
+		971CB5812C5A9C8A000585C9 /* bikeGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bikeGuide.swift; sourceTree = "<group>"; };
+		971CB5832C5BD135000585C9 /* DMSans-Italic-VariableFont_opsz,wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-Italic-VariableFont_opsz,wght.ttf"; sourceTree = "<group>"; };
+		971CB5842C5BD135000585C9 /* DMSans-VariableFont_opsz,wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-VariableFont_opsz,wght.ttf"; sourceTree = "<group>"; };
+		971CB5872C5BD187000585C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		971CB5882C5BDF75000585C9 /* funFactGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = funFactGenerator.swift; sourceTree = "<group>"; };
+		971CB58A2C5BFB61000585C9 /* quizHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quizHome.swift; sourceTree = "<group>"; };
+		971CB58C2C5BFB8D000585C9 /* question1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = question1.swift; sourceTree = "<group>"; };
+		971CB58E2C5BFBC0000585C9 /* question2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = question2.swift; sourceTree = "<group>"; };
+		971CB5902C5BFBE3000585C9 /* question3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = question3.swift; sourceTree = "<group>"; };
+		971CB5922C5BFC00000585C9 /* question4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = question4.swift; sourceTree = "<group>"; };
+		971CB5942C5BFC47000585C9 /* endQuiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = endQuiz.swift; sourceTree = "<group>"; };
+		971CB5962C5D1DAB000585C9 /* firstView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstView.swift; sourceTree = "<group>"; };
+		971CB5982C5D1DCF000585C9 /* secondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondView.swift; sourceTree = "<group>"; };
+		971CB59A2C5D1E05000585C9 /* thirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdView.swift; sourceTree = "<group>"; };
 		97DAE94A2C540F1900C23B54 /* FinalProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinalProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		97DAE94D2C540F1900C23B54 /* FinalProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalProjectApp.swift; sourceTree = "<group>"; };
 		97DAE94F2C540F1900C23B54 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -36,6 +71,15 @@
 		97DAE9412C540F1900C23B54 = {
 			isa = PBXGroup;
 			children = (
+				971CB59A2C5D1E05000585C9 /* thirdView.swift */,
+				971CB5982C5D1DCF000585C9 /* secondView.swift */,
+				971CB5962C5D1DAB000585C9 /* firstView.swift */,
+				971CB58A2C5BFB61000585C9 /* quizHome.swift */,
+				971CB58C2C5BFB8D000585C9 /* question1.swift */,
+				971CB58E2C5BFBC0000585C9 /* question2.swift */,
+				971CB5902C5BFBE3000585C9 /* question3.swift */,
+				971CB5922C5BFC00000585C9 /* question4.swift */,
+				971CB5942C5BFC47000585C9 /* endQuiz.swift */,
 				97DAE94C2C540F1900C23B54 /* FinalProject */,
 				97DAE94B2C540F1900C23B54 /* Products */,
 			);
@@ -52,8 +96,17 @@
 		97DAE94C2C540F1900C23B54 /* FinalProject */ = {
 			isa = PBXGroup;
 			children = (
+				971CB5872C5BD187000585C9 /* Info.plist */,
 				97DAE94D2C540F1900C23B54 /* FinalProjectApp.swift */,
 				97DAE94F2C540F1900C23B54 /* ContentView.swift */,
+				971CB5882C5BDF75000585C9 /* funFactGenerator.swift */,
+				971CB5812C5A9C8A000585C9 /* bikeGuide.swift */,
+				971CB57F2C5A92E8000585C9 /* walkingGuide.swift */,
+				971CB57D2C5A801C000585C9 /* carGuide.swift */,
+				971CB57B2C5A7FF8000585C9 /* airplaneGuide.swift */,
+				971CB5792C5A7FE0000585C9 /* generalGuide.swift */,
+				971CB5832C5BD135000585C9 /* DMSans-Italic-VariableFont_opsz,wght.ttf */,
+				971CB5842C5BD135000585C9 /* DMSans-VariableFont_opsz,wght.ttf */,
 				97DAE9512C540F1F00C23B54 /* Assets.xcassets */,
 				97DAE9532C540F1F00C23B54 /* FinalProject.entitlements */,
 				97DAE9542C540F1F00C23B54 /* Preview Content */,
@@ -129,6 +182,8 @@
 			files = (
 				97DAE9562C540F1F00C23B54 /* Preview Assets.xcassets in Resources */,
 				97DAE9522C540F1F00C23B54 /* Assets.xcassets in Resources */,
+				971CB5862C5BD136000585C9 /* DMSans-VariableFont_opsz,wght.ttf in Resources */,
+				971CB5852C5BD136000585C9 /* DMSans-Italic-VariableFont_opsz,wght.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,8 +194,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				971CB57C2C5A7FF8000585C9 /* airplaneGuide.swift in Sources */,
+				971CB57E2C5A801C000585C9 /* carGuide.swift in Sources */,
+				971CB5992C5D1DCF000585C9 /* secondView.swift in Sources */,
+				971CB5952C5BFC47000585C9 /* endQuiz.swift in Sources */,
+				971CB57A2C5A7FE0000585C9 /* generalGuide.swift in Sources */,
+				971CB59B2C5D1E05000585C9 /* thirdView.swift in Sources */,
+				971CB5972C5D1DAB000585C9 /* firstView.swift in Sources */,
+				971CB58F2C5BFBC0000585C9 /* question2.swift in Sources */,
 				97DAE9502C540F1900C23B54 /* ContentView.swift in Sources */,
+				971CB58B2C5BFB61000585C9 /* quizHome.swift in Sources */,
+				971CB5802C5A92E9000585C9 /* walkingGuide.swift in Sources */,
+				971CB5822C5A9C8A000585C9 /* bikeGuide.swift in Sources */,
 				97DAE94E2C540F1900C23B54 /* FinalProjectApp.swift in Sources */,
+				971CB5912C5BFBE3000585C9 /* question3.swift in Sources */,
+				971CB5892C5BDF75000585C9 /* funFactGenerator.swift in Sources */,
+				971CB58D2C5BFB8D000585C9 /* question1.swift in Sources */,
+				971CB5932C5BFC00000585C9 /* question4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +342,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"FinalProject/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FinalProject/Info.plist;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -308,6 +379,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"FinalProject/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FinalProject/Info.plist;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
